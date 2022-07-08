@@ -1,7 +1,7 @@
 // prerequisites: a nodejs app must be deployed inside a kubernetes cluster
 //                repo must include the Dockerfile
 //                docker pipeline must be installed on Jenkins
-//                docker credentials must be created on Jenkins
+//                 docker credentials must be created on Jenkins
 // TODO: look for all instances of [] and replace all instances of 
 //       '[VARIABLE]' with actual values 
 //        e.g https://github.com/im-sohel/events-app-api-server.git might become https://github.com/MyName/external.git
